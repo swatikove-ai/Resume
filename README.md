@@ -4,7 +4,7 @@ Welcome to my resume repository.
 
 ## 📑 Resume
 
-👉 [📥 View / Download Resume](./resume.pdf)
+👉 [📥 View / Download Resume](.resume.pdf)
 
 ## 🛠️ Skills
 
